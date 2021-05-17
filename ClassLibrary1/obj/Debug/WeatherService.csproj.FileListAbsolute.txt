@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\WpfApp2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Admin\source\repos\WpfApp2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Admin\source\repos\WpfApp2\ClassLibrary1\bin\Debug\RestSharp.dll
+C:\Users\Admin\source\repos\WpfApp2\ClassLibrary1\bin\Debug\RestSharp.xml
+C:\Users\Admin\source\repos\WpfApp2\ClassLibrary1\obj\Debug\WeatherService.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WpfApp2\ClassLibrary1\obj\Debug\WeatherService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WpfApp2\ClassLibrary1\obj\Debug\WeatherService.csproj.CopyComplete
+C:\Users\Admin\source\repos\WpfApp2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Admin\source\repos\WpfApp2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
